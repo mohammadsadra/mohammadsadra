@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there i'm Mohammad Reza! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
-<!--
-**mohammadsadra/mohammadsadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
 Here are some ideas to get you started:
+- 📚 I'm currently a computer engineering student at [Amirkabir University of Technology](aut.ac.ir). 
+- 🔭 I’m currently working on mobile development
+- 🌱 I’m currently learning flutter and swift
+- 💬 Ask me about angular :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)](http://linkedin.com/in/mohammad-sadra-haeri-asadi-52b2271b1)  
+My personal web pages:
+- http://www.imohammadsadra.com/
+- https://mohammadsadra.github.io/git-hub-page/
+Email:
+- mohammadsadrahaeri@gmail.com
+
+
