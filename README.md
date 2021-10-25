@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 My personal web pages:
 - http://www.imohammadsadra.com/
 - https://mohammadsadra.github.io/git-hub-page/
-Email:
-- mohammadsadrahaeri@gmail.com
+
+Email: mohammadsadrahaeri@gmail.com
 
 
