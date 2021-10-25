@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)](http://linkedin.com/in/mohammad-sadra-haeri-asadi-52b2271b1)  
-My personal web pages:
+<img src="https://mohammadsadra.github.io/git-hub-page/img/logo.png" width="25px"> My personal web pages:
 - http://www.imohammadsadra.com/
 - https://mohammadsadra.github.io/git-hub-page/
 
