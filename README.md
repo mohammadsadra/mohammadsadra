@@ -1,5 +1,5 @@
 ## Hi there i'm Mohammad Sadra! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
-
+<img src="http://www.imohammadsadra.com/img/about-me.jpeg" width="120px">
 ### About me
 
 Here are some ideas to get you started:
