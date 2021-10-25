@@ -1,4 +1,4 @@
-## Hi there i'm Mohammad Reza! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+## Hi there i'm Mohammad Sadra! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
 ### About me
 
