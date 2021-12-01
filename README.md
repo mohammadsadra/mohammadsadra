@@ -4,7 +4,7 @@
 ### About me
 
 Here are some ideas to get you started:
-- 📚 I'm currently a computer engineering student at [Amirkabir University of Technology](aut.ac.ir). 
+- 📚 I'm currently study at [Amirkabir University of Technology](aut.ac.ir). 
 - 🔭 I’m currently working on mobile development
 - 🌱 I’m currently learning flutter and swift
 - 💬 Ask me about angular :)
