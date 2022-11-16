@@ -4,10 +4,9 @@
 ### About me
 
 Here are some ideas to get you started:
-- 📚 I'm currently study at [Amirkabir University of Technology](aut.ac.ir). 
-- 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning flutter and swift
-- 💬 Ask me about angular :)
+- 📚 BSc at [Amirkabir University of Technology](aut.ac.ir). 
+- 📚 I'm currently study at [Iran University of Science & Technology](iust.ac.ir). 
+- 🔭 I’m currently working on mobile development(Swift & Flutter)
 
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)](http://linkedin.com/in/mohammad-sadra-haeri-asadi-52b2271b1)  
