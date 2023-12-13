@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 - 📚 BSc at [Amirkabir University of Technology](aut.ac.ir). 
 - 📚 I'm currently study at [Iran University of Science & Technology](iust.ac.ir) (MSc). 
-- 🔭 I’m Web&Mobile Developer. <img style="border-radius: 50%;" src="https://seekicon.com/free-icon-download/angular_3.svg" width="20px"> <img style="border-radius: 50%;" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="20px">
+- 🔭 I’m Web&Mobile Developer. <img style="border-radius: 50%;" src="https://seekicon.com/free-icon-download/angular_3.svg" width="20px"> <img style="border-radius: 50%;" src="https://seekicon.com/free-icon-download/react_5.svg" width="20px"> <img style="border-radius: 50%;" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="20px">
 
 ## Contact
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-reza-dorudian-63a715212/)](http://linkedin.com/in/mohammad-sadra-haeri-asadi-52b2271b1) 
